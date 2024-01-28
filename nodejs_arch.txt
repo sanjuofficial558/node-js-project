@@ -1,0 +1,1 @@
+Node.js architecture revolves around its event-driven, asynchronous nature, utilizing a single-threaded event loop for efficient handling of concurrent operations. It leverages the V8 JavaScript engine, CommonJS modules, and the Libuv library, making it a versatile platform for building scalable and performant applications
